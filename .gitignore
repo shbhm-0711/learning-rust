@@ -2,6 +2,9 @@
 debug/
 target/
 
+# binary created by rustc
+*.exe
+
 # add this for libraries, not binaries
 # Cargo.lock
 
