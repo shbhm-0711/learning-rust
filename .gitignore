@@ -1,6 +1,6 @@
 # house compiles files and executable created by cargo
-debug/
-target/
+*/debug/
+*/target/
 
 # binary created by rustc
 *.exe
